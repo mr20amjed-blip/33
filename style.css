@@ -4,16 +4,16 @@ html {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: #1a72e6;
+    background-color: #ab00fa;
     color: white;
     text-align: center;
     overflow: hidden;
 }
 
 h1 {
-    text-shadow: 0.1em 0.1em 0.2em black;
+    text-shadow: 0.1em 0.1em 0.2em rgb(6, 2, 250);
     font-size: 25px;
-    color: rgb(136, 13, 13);
+    color: white;
 }
 
 a {
@@ -63,23 +63,23 @@ a {
 }
 
 .btn:hover {
-    background-color: #0069d9;
+    background-color: #eff7ff;
 }
 
 .btn-onln {
-    background-color: #ec3b3b;
+    background-color: #fff9f5;
 }
 
 .btn-onln:hover {
-    background-color: #18891b;
+    background-color: #f5e501;
 }
 
 .btn-toolbox {
-    background-color: #4116b6;
+    background-color: #ff0000;
 }
 
 .btn-toolbox:hover {
-    background-color: #d42a01;
+    background-color: #19d642;
 }
 
 .btn-multi {
@@ -87,5 +87,5 @@ a {
 }
 
 .btn-multi:hover {
-    background-color: #da2020;
+    background-color: #20da30;
 }
